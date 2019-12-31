@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 9</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-9">
+            <rect id="Rectangle-Copy" stroke="#E7E7E7" fill="#FFFFFF" x="0.5" y="0.5" width="127" height="127"></rect>
+            <g id="Group-3" transform="translate(50.000000, 48.000000)">
+                <ellipse id="Oval" fill="#9B9B9B" cx="15" cy="15.5906433" rx="15" ry="15.2280702"></ellipse>
+                <g id="buchang-kong" transform="translate(16.428571, 16.476608) scale(-1, 1) translate(-16.428571, -16.476608) translate(11.428571, 7.976608)" fill="#FFFFFF" fill-rule="nonzero">
+                    <path d="M1.87999198,8.15789474 L7.6071284,13.6843681 L7.6071284,2.63142136 L1.87999198,8.15789474 Z M9.10714286,0.817263763 L9.10714286,15.4985257 C9.10714286,16.2019668 8.34315016,16.5755148 7.85933493,16.1086753 L0.252177276,8.767917 C-0.0840590921,8.44336937 -0.0840590921,7.87229282 0.252177276,7.54787248 L7.85933493,0.20711421 C8.34315016,-0.259725283 9.10714286,0.113822669 9.10714286,0.817263763 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
